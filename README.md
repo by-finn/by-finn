@@ -4,8 +4,8 @@ I build SaaS products with AI and grow them with SEO, GEO/AEO and social network
 
 **What I'm building**
 
-- **[Contenttosocial](https://finngarden.com/projects/contenttosocial)**: for SEO and GEO/AEO experts. The articles you write for your clients also become their social media posts.
-- **[ReadyToPost](https://finngarden.com/projects/readytopost)**: your AI community manager. It writes and publishes your posts on Instagram, LinkedIn, Facebook, Pinterest and X. You approve, that's all.
+- **[Contenttosocial](https://contenttosocial.com)**: for SEO and GEO/AEO experts. The articles you write for your clients also become their social media posts.
+- **[ReadyToPost](https://readytopost.ai)**: your AI community manager. It writes and publishes your posts on Instagram, LinkedIn, Facebook, Pinterest and X. You approve, that's all.
 
 **What I share**
 
